@@ -1,0 +1,24 @@
+
+Class Weapon
+
+Rifle func:
+	reload
+	fire
+	switch fire mode
+	scope (aim down sight)
+	switch weapon
+	
+
+
+Class InventorySys
+
+inv func:
+	add item
+	remove item
+	replace items
+	drag
+	inv open
+	inv close
+	sort
+	scroll
+	
