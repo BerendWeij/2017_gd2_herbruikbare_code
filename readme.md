@@ -1,10 +1,10 @@
 # GD2 training in goede, losgekoppelde, herbruikbare Classes
 
 Belangrijkste les voor deze opdracht:
-Hoe communiceren Classes met elkaar.
-Hoe houden we onze code zo losgekoppeld mogelijk
-Hoe zorgen we voor nette interfaces
-En hoe zorgen we ervoor dat onze dependencies niet strict zijn?
+* Hoe communiceren Classes met elkaar.
+* Hoe houden we onze code zo losgekoppeld mogelijk
+* Hoe zorgen we voor nette interfaces
+* En hoe zorgen we ervoor dat onze dependencies niet strict zijn?
 
 #### Hoe moet je omgaan met deze repository?
 
